@@ -6,7 +6,7 @@ subtitle: Ph.D student
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic1.jpg
   image_circular: false # crops the image to make it circular
   address: a `img/prof_pic.jpg`
 
