@@ -19,7 +19,8 @@ I am a **Ph.D. student** in *the technology management-economics-policy program 
 I am interested in applying deep learning methods to technology policy. \
 I earned my **B.S.** and **M.S.** in *Mechanical Engineering (thermodynamics on fuel cell & electrolysis system) from Yonsei University*.
 
-### Ongoing projects & interested topics
+#### Ongoing projects & interested topics
 - Research career modeling & prediction by integrating text data and researcher network
 - Investigating relatedness between technologies with trade data
 - HE(Homomorphic encryption)-friendly deep learning methods for time series data
+\
