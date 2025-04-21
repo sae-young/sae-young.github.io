@@ -11,7 +11,7 @@ profile:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
-##### Ph.D student
+##### Ph.D candidate
 E-mail: [saeyoung.choi@snu.ac.kr](saeyoung.choi@snu.ac.kr)
 
 I am a **Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
@@ -22,6 +22,7 @@ I am interested in applying deep learning approaches to analyze large-scale scie
 ##### Participants in science, technology, and innovation activities
 - Understandnig how research careers are shaped
 - Investigating researchers' geographical mobility and topic mobility
+
 ##### Relationship between scientific and technological knowledge
 - Examining the dynamics of connectivity across scientific and technological domains
 - Studying how the adoption of new methodologies (e.g., AI) varies across fields
