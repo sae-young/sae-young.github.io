@@ -12,7 +12,9 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 ##### Ph.D candidate
-E-mail: [saeyoung.choi@snu.ac.kr](saeyoung.choi@snu.ac.kr)
+E-mail: [saeyoung.choi@snu.ac.kr](saeyoung.choi@snu.ac.kr)   |
+[Google scholar](https://scholar.google.com/citations?user=4pRuil0AAAAJ)   |
+[LinkedIn](https://linkedin.com/in/sae-young-choi)
 
 I am a **Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
 I earned my B.S. and M.S. in *Mechanical Engineering (thermodynamics on fuel cell & electrolysis system) from Yonsei University*.
