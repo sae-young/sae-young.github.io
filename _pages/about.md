@@ -16,18 +16,19 @@ E-mail: [saeyoung.choi@snu.ac.kr](saeyoung.choi@snu.ac.kr)   |
 [Google scholar](https://scholar.google.com/citations?user=4pRuil0AAAAJ)   |
 [LinkedIn](https://linkedin.com/in/sae-young-choi)
 
-I am a **Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
-I earned my B.S. and M.S. in *Mechanical Engineering (thermodynamics on fuel cell & electrolysis system) from Yonsei University*.
+**Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
+B.S. & M.S. in *Mechanical Engineering (thermodynamics on fuel cell & electrolysis system) from Yonsei University*.
 
 #### Interested topics
-I am interested in applying deep learning approaches to analyze large-scale science and technology data for political implitcations. I have primarily worked with publicatoin and patent data. My recent interests include:
+I am interested in **applying deep learning approaches to analyze large-scale science and technology data** (publication, patent) for policy  implications.
 ##### Participants in science, technology, and innovation activities
 - Understandnig how research careers are shaped
 - Investigating researchers' geographical mobility and topic mobility
-
+<!--
 ##### Relationship between scientific and technological knowledge
 - Examining the dynamics of connectivity across scientific and technological domains
 - Studying how the adoption of new methodologies (e.g., AI) varies across fields
-
+-->
 #### Ongoing projects
-- National contexts shape research topic transition of researchers: A case of shift toward AI
+- (Under review) Revealing Country-level Disparities in Researchers’ Transition to Artificial Intelligence: A Deep Learning-based Analysis
+- (In preparation) Quantifying Researchers' Topic-shift with Deep Representation Learning of Research Trajectories
