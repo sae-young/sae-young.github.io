@@ -30,5 +30,5 @@ I am interested in **applying deep learning approaches to analyze large-scale sc
 - Studying how the adoption of new methodologies (e.g., AI) varies across fields
 -->
 #### Ongoing projects
-- (Under review) Revealing Country-level Disparities in Researchers’ Transition to Artificial Intelligence: A Deep Learning-based Analysis
+- (Under review) Cross-country Differences of Researchers’ Topic-shift
 - (In preparation) Quantifying Researchers' Topic-shift with Deep Representation Learning of Research Trajectories
