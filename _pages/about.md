@@ -24,11 +24,7 @@ I am interested in **applying deep learning approaches to analyze large-scale sc
 ##### Participants in science, technology, and innovation activities
 - Understandnig how research careers are shaped
 - Investigating researchers' geographical mobility and topic mobility
-<!--
-##### Relationship between scientific and technological knowledge
-- Examining the dynamics of connectivity across scientific and technological domains
-- Studying how the adoption of new methodologies (e.g., AI) varies across fields
--->
+
 #### Ongoing projects
 - (Under review) Cross-country Differences of Researchers’ Topic-shift
 - (In preparation) Quantifying Researchers' Topic-shift with Deep Representation Learning of Research Trajectories
