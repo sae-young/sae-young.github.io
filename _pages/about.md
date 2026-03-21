@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ##### Ph.D candidate
 `saeyoung.choi@snu.ac.kr`&emsp;·&emsp;<a href="https://scholar.google.com/citations?user=4pRuil0AAAAJ" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar fa-lg"></i></a>&emsp;·&emsp;<a href="https://linkedin.com/in/sae-young-choi" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin fa-lg"></i></a>
 
+<!-- Research observatory 대시보드 완성되면 여기에다 홍보 문구 올리고, header에도 추가할 예정임-->
+
 **Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
 B.S. & M.S. in *Mechanical Engineering (thermodynamics on fuel cell & electrolysis system) from Yonsei University*.
 
