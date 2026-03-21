@@ -12,8 +12,8 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 ##### Ph.D candidate
-`saeyoung.choi@snu.ac.kr` &emsp;|&emsp; 
-<a href="https://scholar.google.com/citations?user=4pRuil0AAAAJ" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar fa-lg"></i></a> &emsp;|&emsp; 
+`saeyoung.choi@snu.ac.kr` &emsp;  
+<a href="https://scholar.google.com/citations?user=4pRuil0AAAAJ" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar fa-lg"></i></a> &emsp; 
 <a href="https://linkedin.com/in/sae-young-choi" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin fa-lg"></i></a>
 
 **Ph.D. student** in *the technology management-economics-policy program at Seoul National University.* \
