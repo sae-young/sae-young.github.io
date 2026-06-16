@@ -25,6 +25,9 @@ I am interested in **applying deep learning approaches to analyze large-scale sc
 - Understandnig how research careers are shaped
 - Investigating researchers' geographical mobility and topic mobility
 
-#### Ongoing projects
-- (Under review) Cross-country Differences of Researchers’ Topic-shift
-- (In preparation) Quantifying Researchers' Topic-shift with Deep Representation Learning of Research Trajectories
+#### Selected Publications
+- Choi, S., & Lee, J. (2026). Revealing country-level disparities in researchers' transition to artificial intelligence: A deep learning-based analysis. *Journal of Informetrics*, 20(3), 101843. [[doi]](https://doi.org/10.1016/j.joi.2026.101843)
+
+#### Working papers
+- Pivoting, not Leaping: Atypical Combinations with Anchored Exploration
+- Who Survives the Scientific Pivot? Long-term Consequences of Scientific Pivots
