@@ -26,7 +26,7 @@ I am interested in **applying deep learning approaches to analyze large-scale sc
 - Investigating researchers' geographical mobility and topic mobility
 
 #### Selected Publications
-- Choi, S., & Lee, J. (2026). Revealing country-level disparities in researchers' transition to artificial intelligence: A deep learning-based analysis. *Journal of Informetrics*, 20(3), 101843. [[doi]](https://doi.org/10.1016/j.joi.2026.101843)
+- Choi, S., & Lee, J. (2026). Revealing country-level disparities in researchers' transition to artificial intelligence: A two-stage analytical framework. *Journal of Informetrics*, 20(3), 101843. [[doi]](https://doi.org/10.1016/j.joi.2026.101843)
 
 #### Working papers
 - Pivoting, not Leaping: Atypical Combinations with Anchored Exploration
